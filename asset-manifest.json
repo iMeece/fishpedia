@@ -1,24 +1,28 @@
 {
   "files": {
-    "main.css": "/fishpedia/static/css/main.e494d0a2.chunk.css",
-    "main.js": "/fishpedia/static/js/main.fae51d70.chunk.js",
-    "main.js.map": "/fishpedia/static/js/main.fae51d70.chunk.js.map",
-    "runtime-main.js": "/fishpedia/static/js/runtime-main.21c6388d.js",
-    "runtime-main.js.map": "/fishpedia/static/js/runtime-main.21c6388d.js.map",
-    "static/js/2.5ff0f01d.chunk.js": "/fishpedia/static/js/2.5ff0f01d.chunk.js",
-    "static/js/2.5ff0f01d.chunk.js.map": "/fishpedia/static/js/2.5ff0f01d.chunk.js.map",
-    "static/js/3.9eec0178.chunk.js": "/fishpedia/static/js/3.9eec0178.chunk.js",
-    "static/js/3.9eec0178.chunk.js.map": "/fishpedia/static/js/3.9eec0178.chunk.js.map",
+    "main.css": "/fishpedia/static/css/main.f39ec870.chunk.css",
+    "main.js": "/fishpedia/static/js/main.c9d3f7b7.chunk.js",
+    "main.js.map": "/fishpedia/static/js/main.c9d3f7b7.chunk.js.map",
+    "runtime-main.js": "/fishpedia/static/js/runtime-main.f0c3635d.js",
+    "runtime-main.js.map": "/fishpedia/static/js/runtime-main.f0c3635d.js.map",
+    "static/css/2.067de98b.chunk.css": "/fishpedia/static/css/2.067de98b.chunk.css",
+    "static/js/2.fc32d1dd.chunk.js": "/fishpedia/static/js/2.fc32d1dd.chunk.js",
+    "static/js/2.fc32d1dd.chunk.js.map": "/fishpedia/static/js/2.fc32d1dd.chunk.js.map",
+    "static/js/3.6ff22515.chunk.js": "/fishpedia/static/js/3.6ff22515.chunk.js",
+    "static/js/3.6ff22515.chunk.js.map": "/fishpedia/static/js/3.6ff22515.chunk.js.map",
     "index.html": "/fishpedia/index.html",
-    "static/css/main.e494d0a2.chunk.css.map": "/fishpedia/static/css/main.e494d0a2.chunk.css.map",
-    "static/js/2.5ff0f01d.chunk.js.LICENSE.txt": "/fishpedia/static/js/2.5ff0f01d.chunk.js.LICENSE.txt",
-    "static/media/navlogo.0c2706e7.png": "/fishpedia/static/media/navlogo.0c2706e7.png",
+    "static/css/2.067de98b.chunk.css.map": "/fishpedia/static/css/2.067de98b.chunk.css.map",
+    "static/css/main.f39ec870.chunk.css.map": "/fishpedia/static/css/main.f39ec870.chunk.css.map",
+    "static/js/2.fc32d1dd.chunk.js.LICENSE.txt": "/fishpedia/static/js/2.fc32d1dd.chunk.js.LICENSE.txt",
+    "static/media/font-awesome.min.css": "/fishpedia/static/media/fontawesome-webfont.f691f37e.woff",
+    "static/media/navlogo.defdae0e.png": "/fishpedia/static/media/navlogo.defdae0e.png",
     "static/media/App.css": "/fishpedia/static/media/thumbnail1.5e0d31aa.jfif"
   },
   "entrypoints": [
-    "static/js/runtime-main.21c6388d.js",
-    "static/js/2.5ff0f01d.chunk.js",
-    "static/css/main.e494d0a2.chunk.css",
-    "static/js/main.fae51d70.chunk.js"
+    "static/js/runtime-main.f0c3635d.js",
+    "static/css/2.067de98b.chunk.css",
+    "static/js/2.fc32d1dd.chunk.js",
+    "static/css/main.f39ec870.chunk.css",
+    "static/js/main.c9d3f7b7.chunk.js"
   ]
 }
