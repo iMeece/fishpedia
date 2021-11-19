@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/fishpedia/static/css/main.5999b0eb.chunk.css",
-    "main.js": "/fishpedia/static/js/main.b4e8f684.chunk.js",
-    "main.js.map": "/fishpedia/static/js/main.b4e8f684.chunk.js.map",
+    "main.css": "/fishpedia/static/css/main.a1651b3d.chunk.css",
+    "main.js": "/fishpedia/static/js/main.2be8a87e.chunk.js",
+    "main.js.map": "/fishpedia/static/js/main.2be8a87e.chunk.js.map",
     "runtime-main.js": "/fishpedia/static/js/runtime-main.f0c3635d.js",
     "runtime-main.js.map": "/fishpedia/static/js/runtime-main.f0c3635d.js.map",
     "static/css/2.067de98b.chunk.css": "/fishpedia/static/css/2.067de98b.chunk.css",
@@ -12,7 +12,7 @@
     "static/js/3.6ff22515.chunk.js.map": "/fishpedia/static/js/3.6ff22515.chunk.js.map",
     "index.html": "/fishpedia/index.html",
     "static/css/2.067de98b.chunk.css.map": "/fishpedia/static/css/2.067de98b.chunk.css.map",
-    "static/css/main.5999b0eb.chunk.css.map": "/fishpedia/static/css/main.5999b0eb.chunk.css.map",
+    "static/css/main.a1651b3d.chunk.css.map": "/fishpedia/static/css/main.a1651b3d.chunk.css.map",
     "static/js/2.4a228700.chunk.js.LICENSE.txt": "/fishpedia/static/js/2.4a228700.chunk.js.LICENSE.txt",
     "static/media/font-awesome.min.css": "/fishpedia/static/media/fontawesome-webfont.f691f37e.woff",
     "static/media/navlogo.defdae0e.png": "/fishpedia/static/media/navlogo.defdae0e.png",
@@ -22,7 +22,7 @@
     "static/js/runtime-main.f0c3635d.js",
     "static/css/2.067de98b.chunk.css",
     "static/js/2.4a228700.chunk.js",
-    "static/css/main.5999b0eb.chunk.css",
-    "static/js/main.b4e8f684.chunk.js"
+    "static/css/main.a1651b3d.chunk.css",
+    "static/js/main.2be8a87e.chunk.js"
   ]
 }
