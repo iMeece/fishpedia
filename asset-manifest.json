@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/fishpedia/static/css/main.a1651b3d.chunk.css",
-    "main.js": "/fishpedia/static/js/main.2be8a87e.chunk.js",
-    "main.js.map": "/fishpedia/static/js/main.2be8a87e.chunk.js.map",
+    "main.js": "/fishpedia/static/js/main.cdfe129f.chunk.js",
+    "main.js.map": "/fishpedia/static/js/main.cdfe129f.chunk.js.map",
     "runtime-main.js": "/fishpedia/static/js/runtime-main.f0c3635d.js",
     "runtime-main.js.map": "/fishpedia/static/js/runtime-main.f0c3635d.js.map",
     "static/css/2.067de98b.chunk.css": "/fishpedia/static/css/2.067de98b.chunk.css",
@@ -23,6 +23,6 @@
     "static/css/2.067de98b.chunk.css",
     "static/js/2.4a228700.chunk.js",
     "static/css/main.a1651b3d.chunk.css",
-    "static/js/main.2be8a87e.chunk.js"
+    "static/js/main.cdfe129f.chunk.js"
   ]
 }
